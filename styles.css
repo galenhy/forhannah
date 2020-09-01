@@ -65,7 +65,7 @@ nav a:hover {
 main {
     text-align: center;
     margin: auto;
-    width: 80%;
+    width: 100%;
 }
 
 main p {
@@ -73,5 +73,6 @@ main p {
     font-family: sans-serif;
     font-size: 1.1em;
     margin-top: 35px;
+    margin-left: -5px;
 }
 
